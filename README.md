@@ -1,1 +1,2 @@
 # FirstPrincipleCalculation
+We have carried out characteristic first principle calculation according to our concrete needs. Our current computing work depends on many computing simulation software recognized in the industry, such as VASP, spirit, vampire and so on. In order to achieve many specific requirements, we are also trying to write our own program and apply it to the actual scene. So far we have some research results in the field of first principle calculation.
